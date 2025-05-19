@@ -197,7 +197,7 @@
                             <div class="feature-two__icon">
                                 <span class="icon-plant"></span>
                             </div>
-                            <h3 class="feature-two__title"><a href="urban-design.html">PROYECTOS COMERCIALES Y CORPORATIVOS</a></h3>
+                            <h3 class="feature-two__title"><a href="urban-design.html">PROYECTOS COMERCIALES Y CORPORATIVOS.</a></h3>
                             <p class="feature-two__text">Trabajamos estrechamente para desarrollar un diseño que no solo sea estéticamente atractivo, sino que impulse su estrategia de negocio</p>
                             <div class="feature-two__shape-box">
                                 <div class="feature-two__shape-1"></div>
