@@ -104,11 +104,11 @@
                         <div class="service-details__left">
                             <div class="service-details__service-box">
                                 <ul class="service-details__services-list list-unstyled">
-                                    <li>
+                                    <li class="active">
                                         <a href="servicio-arquitectura.php">ARQUITECTURA<span
                                                 class="icon-right"></span></a>
                                     </li>
-                                    <li class="active">
+                                    <li>
                                         <a href="servicio-visualizacion.php">VISUALIZACIÓN<span
                                                 class="icon-right"></span></a>
                                     </li>
@@ -137,32 +137,29 @@
                     <div class="col-xl-8 col-lg-7">
                         <div class="service-details__right">
                             <div class="service-details__img">
-                                <img src="assets/images/visualizacion-banner.jpg" alt="">
+                                <img src="assets/images/arquitectos-banner.jpg" alt="">
                             </div>
-                            <h3 class="service-details__title-1">VIVE TU PROYECTO ANTES DE CONSTRUIRLO</h3>
-                            <p class="service-details__text-2">Ofrecemos herramientas visuales avanzadas que permiten experimentar el proyecto de forma realista e inmersiva. Ideal para presentaciones, toma de decisiones o fines comerciales.</p>
+                            <h3 class="service-details__title-1">DISEÑO CON VISIÓN, PLANEACIÓN CON DETALLE.</h3>
+                            <p class="service-details__text-2">Nuestro servicio de arquitectura está enfocado en crear soluciones espaciales que combinan funcionalidad, estética y viabilidad técnica. Trabajamos de la mano con nuestros clientes para entender sus necesidades, estilo de vida o giro comercial, y traducirlas en propuestas arquitectónicas que aporten valor y personalidad el proyecto.</p>
+                            <p class="service-details__text-2">Desde el análisis del terreno y la normativa aplicable, hasta el diseño conceptual, la seleccion de materiales y la integración del entorno, cada etapa del proceso esta guiado por la atención al detalle y la busqueda de soluciones innovadoras.</p>
+                            <p class="service-details__text-2">Integramos metodologías modernas como BIM (Building Information Modeling) y herramientas de visualización para facilitar la toma de decisiones y anticipar el comportamiento del proyecto antes de ser construido.</p>
                             <div class="service-details__img-and-point-box">
                                 <div class="service-details__points-img">
                                     <img src="assets/images/services/service-details-points-img.jpg" alt="">
                                 </div>
                                 <div class="service-details__points-box">
-                                    <h3 class="service-details__points-title">NUESTRO ENFOQUE PRIORIZA:</h3>
+                                    <h3 class="service-details__points-title">NUESTRO ENFOQUE ARQUITECTÓNICO PRIORIZA:</h3>
                                     <ul class="service-details__points-list list-unstyled">
                                         <li>
                                             <div class="service-details__points-shape"></div>
-                                            <h3>RENDERS</h3>
+                                            <h3>PROYECTO ARQUITECTÓNICO</h3>
                                         </li>
-                                        <p class="service-details__text-2">Imágenes hiperrealistas que ilustran materiales, iluminación, amientación y diseño con un alto nivel de datelle. Ideales para comunicar visualmente una propuesta de manera profesional.</p>
+                                        <p class="service-details__text-2">Creemos propuestas de diseño que contemplan la distribución de espacios, volumetrías fachadas y concepto arquitectónico general. Este proceso es la base para un desarrollo armónico y alineado a tus objetivos.</p>
                                         <li>
                                             <div class="service-details__points-shape"></div>
-                                            <h3>ANIMACIONES 3D</h3>
+                                            <h3>PROYECTO EJECUTIVO</h3>
                                         </li>
-                                        <p class="service-details__text-2">Recorridos animados que muestran el proyecto en movimiento, permitiendo entender el espacio, las transiciones y la experiencia del usuario final. Muy útiles en presentaciones comerciales y redes sociales.</p>
-                                        <li>
-                                            <div class="service-details__points-shape"></div>
-                                            <h3>TOURS VIRTUALES Y RENDERS 360°</h3>
-                                        </li>
-                                        <p class="service-details__text-2">Experiencias interactivas para explorar el espacio desde cualquier dispositivo. Ideales para clientes, desarrolladores o inversionistas que desean conocer el proyecto antes de ejecutarlo.</p>
+                                        <p class="service-details__text-2">Elaboramos todos los planos constructivos, especificaciones técnicas y detalles necesarios para ejecutar la obra con precisión. Nuestro proyecto ejecutivo reduce errores y garantiza una correcta materialización del diseño.</p>
                                     </ul>
                                 </div>
                             </div>

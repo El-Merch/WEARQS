@@ -108,11 +108,11 @@
                                         <a href="servicio-arquitectura.php">ARQUITECTURA<span
                                                 class="icon-right"></span></a>
                                     </li>
-                                    <li class="active">
+                                    <li>
                                         <a href="servicio-visualizacion.php">VISUALIZACIÓN<span
                                                 class="icon-right"></span></a>
                                     </li>
-                                    <li>
+                                    <li class="active">
                                         <a href="servicio-construccion.php">CONSTRUCCIÓN<span
                                                 class="icon-right"></span></a>
                                     </li>
@@ -137,10 +137,10 @@
                     <div class="col-xl-8 col-lg-7">
                         <div class="service-details__right">
                             <div class="service-details__img">
-                                <img src="assets/images/visualizacion-banner.jpg" alt="">
+                                <img src="assets/images/construccion-banner.jpg" alt="">
                             </div>
-                            <h3 class="service-details__title-1">VIVE TU PROYECTO ANTES DE CONSTRUIRLO</h3>
-                            <p class="service-details__text-2">Ofrecemos herramientas visuales avanzadas que permiten experimentar el proyecto de forma realista e inmersiva. Ideal para presentaciones, toma de decisiones o fines comerciales.</p>
+                            <h3 class="service-details__title-1">VIVE TU PROYECTO ANTES DE CONSTRUIRLO.</h3>
+                            <p class="service-details__text-2">Ofrecemos herramientas visuales avanzadas que permiten experimentar el proyecto de forma realista einmersiva. Ideal para presentaciones, toma de decisiones o fines comerciales</p>
                             <div class="service-details__img-and-point-box">
                                 <div class="service-details__points-img">
                                     <img src="assets/images/services/service-details-points-img.jpg" alt="">
@@ -152,7 +152,7 @@
                                             <div class="service-details__points-shape"></div>
                                             <h3>RENDERS</h3>
                                         </li>
-                                        <p class="service-details__text-2">Imágenes hiperrealistas que ilustran materiales, iluminación, amientación y diseño con un alto nivel de datelle. Ideales para comunicar visualmente una propuesta de manera profesional.</p>
+                                        <p class="service-details__text-2">Imagenes hiperrealistas que ilustran materiales, iluminación, ambientación y diseño con un alto nivel de detalle. Ideales para comunicar visualmente una propuesta de manera profesional.</p>
                                         <li>
                                             <div class="service-details__points-shape"></div>
                                             <h3>ANIMACIONES 3D</h3>
@@ -288,6 +288,31 @@
             </div>
         </div>
 
+        <!--Services Details Start-->
+        <section class="service-details">
+            <div class="section-shape-1" style="background-image: url(assets/images/shapes/section-shape-1.png);"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="service-details__left">
+                            <div class="service-details__download-box">
+                                <div class="icon">
+                                    <span class="icon-download"></span>
+                                </div>
+                                <a href="#">Descargar archivo PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8 col-lg-7">
+                        <div class="service-details__right" style="margin-top: -40px;">
+                            <h3 class="service-details__title-1">TU ESPACIO COMIENZA CON UNA BUENA DECISIÓN.</h3>
+                            <p class="service-details__text-2">Contactenos y lleva tu proyecto de la idea a la realidad con un equipo que entiende, diseña y construye con excelencia.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Services Details End-->
 
         <!--Brand One Start-->
         <section class="brand-one">

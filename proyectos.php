@@ -441,7 +441,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">HOPELCHEN 106</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-25.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#Hopelchen106">
+                                        <img src="assets/images/proyectos/portada-25.jpg" alt="" href="#" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#Hopelchen106">
                                     </div>
                                 </div>
                             </div>
@@ -454,7 +454,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">GYNECENTER</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-26.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-26.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#GyneCenter">
                                     </div>
                                 </div>
                             </div>
@@ -467,7 +467,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">+DENTISTA - TUXTLA</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-27.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-27.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#DentistaTuxtla">
                                     </div>
                                 </div>
                             </div>
@@ -480,7 +480,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">DENTISUR - CIUDAD DEL CARMEN</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-28.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-28.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#DentisurCarmen">
                                     </div>
                                 </div>
                             </div>
@@ -493,7 +493,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">DENTISUR - CANCÚN</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-29.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-29.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#DentisurCancun">
                                     </div>
                                 </div>
                             </div>
@@ -506,7 +506,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">CASA RM - PLAYA</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-30.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-30.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#CasaRmPlaya">
                                     </div>
                                 </div>
                             </div>
@@ -516,10 +516,10 @@
                             <div class="services-one__single">
                                 <div class="services-one__shape-1" style="background-image: url(assets/images/shapes/services-one-shape-1.png);"></div>
                                 <div class="services-one__content-box">
-                                    <h3 class="services-one__title"><a href="evolve-space-designs.html">VIA CUMBRES - GR01</a>
+                                    <h3 class="services-one__title"><a href="evolve-space-designs.html">CASA GR 01</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-31.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-31.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#ViaCumbresGr01">
                                     </div>
                                 </div>
                             </div>
@@ -532,7 +532,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">DENTAL STUDIO</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-32.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-32.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#DentalStudio">
                                     </div>
                                 </div>
                             </div>
@@ -545,7 +545,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">CORPORATIVO SDP</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-33.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-33.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#CorporativoSDP">
                                     </div>
                                 </div>
                             </div>
@@ -558,7 +558,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">CASA AHUEHUETE</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-34.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-34.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#CasaAhuehuete">
                                     </div>
                                 </div>
                             </div>
@@ -571,7 +571,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">PROTOTIPO - CIUDAD DIAMANTE</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-35.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-35.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#PrototipoDiamante">
                                     </div>
                                 </div>
                             </div>
@@ -584,7 +584,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">LAGOS DEL SOL - PELICANOS 49</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-36.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-36.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#LagosdelSol">
                                     </div>
                                 </div>
                             </div>
@@ -597,7 +597,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">CASA MAYA</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-37.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-37.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#CasaMaya">
                                     </div>
                                 </div>
                             </div>
@@ -610,7 +610,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">MEDICA RISO</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-38.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-38.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#MedicaRiso">
                                     </div>
                                 </div>
                             </div>
@@ -623,7 +623,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">SALÓN DE BELLEZA BIJOU</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-39.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-39.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#BellezaBijou">
                                     </div>
                                 </div>
                             </div>
@@ -636,7 +636,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">OKUME JSII</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-40.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-40.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#Okume">
                                     </div>
                                 </div>
                             </div>
@@ -649,7 +649,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">PIZZA BELLA</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-41.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-41.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#PizzaBella">
                                     </div>
                                 </div>
                             </div>
@@ -662,7 +662,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">MINI MARKET</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-42.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-42.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#MiniMarket">
                                     </div>
                                 </div>
                             </div>
@@ -675,7 +675,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">SATURA O2</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-43.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-43.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#Satura02">
                                     </div>
                                 </div>
                             </div>
@@ -688,7 +688,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">CORPORATIVO TRIPNOW</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-44.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-44.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#Tripnow">
                                     </div>
                                 </div>
                             </div>
@@ -701,7 +701,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">RESIDENCIA PASEO DE LA SELVA</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-45.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-45.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#Selva">
                                     </div>
                                 </div>
                             </div>
@@ -714,7 +714,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">+ DENTISTA - MÉRIDA</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-46.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-46.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#DentistaMerida">
                                     </div>
                                 </div>
                             </div>
@@ -727,7 +727,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">HOTEL PRINCESS</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-47.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-47.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#HotelPrincess">
                                     </div>
                                 </div>
                             </div>
@@ -740,7 +740,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">LA RIOJA</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-48.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-48.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#Rioja">
                                     </div>
                                 </div>
                             </div>
@@ -753,7 +753,7 @@
                                     <h3 class="services-one__title"><a href="evolve-space-designs.html">ECOVILLAS XUL-HA - CHACA</a>
                                     </h3>
                                     <div class="services-one__img">
-                                        <img src="assets/images/proyectos/portada-49.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#QuickViewProduct">
+                                        <img src="assets/images/proyectos/portada-49.jpg" alt="" href="evolve-space-designs.html" class="services-one__btn" data-bs-toggle="modal" data-bs-target="#Xulha">
                                     </div>
                                 </div>
                             </div>

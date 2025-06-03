@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Servicios |Visualización, Arquitectura & Construcción │ WEARQS® </title>
+    <title> Servicios | Visualización, Arquitectura & Construcción │ WEARQS® </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -113,7 +113,7 @@
                                             style="background-image: url(assets/images/shapes/projects-one-content-shape-1.png);">
                                         </div>
                                         <p class="projects-one__sub-title" style="font-size: 15px;">Conoce nuestros servicios y como te beneficiaran</p>
-                                        <h4 class="projects-one__title" style="font-size: 50px;"><a href="project-details.html">ARQUITECTURA</a></h4>
+                                        <h4 class="projects-one__title" style="font-size: 50px;"><a href="servicio-arquitectura.php">ARQUITECTURA</a></h4>
                                     </div>
                                     <div class="projects-one__arrow">
                                         <a href="assets/images/proyecto-1.jpg" class="img-popup"><span
@@ -133,7 +133,7 @@
                                             style="background-image: url(assets/images/shapes/projects-one-content-shape-1.png);">
                                         </div>
                                         <p class="projects-one__sub-title" style="font-size: 15px;">Conoce nuestros servicios y como te beneficiaran</p>
-                                        <h4 class="projects-one__title" style="font-size: 50px;"><a href="project-details.html">VISUALIZACIÓN</a></h4>
+                                        <h4 class="projects-one__title" style="font-size: 50px;"><a href="servicio-visualizacion.php">VISUALIZACIÓN</a></h4>
                                     </div>
                                     <div class="projects-one__arrow">
                                         <a href="assets/images/proyecto-4.jpg" class="img-popup"><span
@@ -153,7 +153,7 @@
                                             style="background-image: url(assets/images/shapes/projects-one-content-shape-1.png);">
                                         </div>
                                         <p class="projects-one__sub-title" style="font-size: 15px;">Conoce nuestros servicios y como te beneficiaran</p>
-                                        <h4 class="projects-one__title" style="font-size: 50px;"><a href="project-details.html">CONSTRUCCIÓN</a></h4>
+                                        <h4 class="projects-one__title" style="font-size: 50px;"><a href="servicio-construccion.php">CONSTRUCCIÓN</a></h4>
                                     </div>
                                     <div class="projects-one__arrow">
                                         <a href="assets/images/proyecto-2.jpg" class="img-popup"><span
